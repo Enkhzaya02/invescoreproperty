@@ -25,45 +25,12 @@ ul {
     margin-right: 35px;
 }
 
+#logo {
+    justify-self: left;
+}
+
 .head {
     width: 100%;
-}
-
-.main-photo {
-    position: relative;
-    padding-left: 100px;
-}
-
-#main-photo1 {
-    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.5));
-    border-radius: 20px;
-}
-
-#big-text {
-    font-size: large;
-    font-family: 'Raleway', sans-serif;
-    position: absolute;
-    top: 750px;
-    color: #014c81;
-    left: 530px;
-    font-size: 40px;
-    /*text-shadow: 2px 2px #f78888;*/
-}
-
-#mid-text {
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    color: black;
-    margin-top: 140px;
-    text-align: center;
-}
-
-#mid-text2 {
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    color: black;
-    margin-top: 30px;
-    text-align: center;
 }
 
 #ic-tower-pic {
@@ -85,9 +52,15 @@ ul {
 .tusul {
     display: flex;
     justify-content: center;
-    padding-top: 150px;
+    padding-top: 50px;
 }
 
 .main-body {
-    margin-top: 150px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.table {
+    padding-left: 200px;
+    padding-top: 50px;
 }
