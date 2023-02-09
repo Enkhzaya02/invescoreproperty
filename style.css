@@ -91,3 +91,37 @@ ul {
 .main-body {
     margin-top: 150px;
 }
+
+.uil-ajillagaa {
+    display: flex;
+    justify-content: center;
+}
+
+.hugjuulelt {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    float: left;
+    color: #152E70;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 50px;
+    font-size: large;
+    margin-top: 50px;
+}
+
+#line {
+    size: 3;
+    width: 95%;
+    color: #152E70;
+}
+
+#copyright {
+    margin-top: 10px;
+    color: #152E70;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 50px;
+    font-size: large;
+    margin-bottom: 150px;
+}

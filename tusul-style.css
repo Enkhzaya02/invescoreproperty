@@ -64,3 +64,27 @@ ul {
     padding-left: 200px;
     padding-top: 50px;
 }
+
+.footer {
+    margin-top: 50px;
+    float: left;
+    color: #152E70;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 50px;
+    font-size: large;
+}
+
+#line {
+    size: 3;
+    width: 95%;
+    color: #152E70;
+}
+
+#copyright {
+    margin-top: 10px;
+    color: #152E70;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 50px;
+    font-size: large;
+    margin-bottom: 150px;
+}
